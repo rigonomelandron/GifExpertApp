@@ -1,0 +1,2 @@
+(this["webpackJsonpgift-expert-app"]=this["webpackJsonpgift-expert-app"]||[]).push([[0],{14:function(e,t,n){},16:function(e,t,n){"use strict";n.r(t);var c=n(0),p=n.n(c),a=n(6),r=n.n(a),o=(n(14),n(1)),u=(n(8),n(4),n(7),function(){var e=Object(c.useState)(["One Punch"]),t=Object(o.a)(e,2);t[0],t[1]});r.a.render(p.a.createElement(u,null),document.getElementById("root"))},9:function(e,t,n){e.exports=n(16)}},[[9,1,2]]]);
+//# sourceMappingURL=main.2fa24202.chunk.js.map
